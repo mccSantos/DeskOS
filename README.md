@@ -7,7 +7,6 @@ It started as a simple LCD experiment and evolved into a small embedded system
 with a real-time clock, environmental monitoring, timers, sound feedback, and
 a menu-driven user interface.
 
-> Current status: working prototype, before migration to a Prototype Shield V3.
 
 ---
 
