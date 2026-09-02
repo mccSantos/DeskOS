@@ -71,7 +71,6 @@ Press the encoder to open the main menu.
 | Rotary encoder with push button | User input |
 | DHT11 | Temperature + humidity |
 | Buzzer | Audio feedback |
-| Prototype Shield V3 | Planned permanent assembly |
 
 ---
 
@@ -179,7 +178,7 @@ logic is split into small managers so that each part can evolve independently.
 
 ## 🚀 Uploading
 
-1. Open `src/DeskOS/DeskOS.ino` in Arduino IDE.
+1. Open `DeskOS.ino` in Arduino IDE.
 2. Select **Arduino Mega or Mega 2560**.
 3. Select the correct COM port.
 4. Install the required libraries.
